@@ -90,3 +90,14 @@ Run all cells top-to-bottom after a clean kernel restart. Notebook 02 (`svm`) ma
 - Breast Cancer Wisconsin (Diagnostic) dataset: W.H. Wolberg, W.N. Street, O.L. Mangasarian - University of Wisconsin, via UCI Machine Learning Repository
 - Spambase dataset: M. Hopkins, E. Reeber, G. Forman, J. Suermondt - Hewlett-Packard Labs, via UCI Machine Learning Repository
 - Dataset collection and original notebook structure
+---
+
+## Contact
+
+<div align="center">
+  <img src="images/thumbnails/ehcastroh_teach_banner_flower.png" alt="ehcastroh" width="90" style="border-radius: 50%;" />
+
+  <sub>ehcastroh</sub>
+
+  <a href="https://github.com/ehcastroh">GitHub</a> · <a href="https://www.linkedin.com/in/ehcastroh/">LinkedIn</a>
+</div>
